@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**shivamsbisht/shivamsbisht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I am Shivam Singh Bisht!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- BCA AI & Data Science Student at K.R. Mangalam University, Gurugram
+- Currently learning Python, Linux, Git and GitHub workflows.
+- Interested in Artificial Intelligence, Data Science and Software Development.
+- Exploring programming, data analysis and practical technology projects.
+- 
+
+## Technical Skills
+
+| Category | Technologies |
+|---|---|
+| Languages | Python (Beginner), Java (Beginner), HTML, CSS, Bash |
+| Data Handling | Pandas (Basics), Data Cleaning, Data Analysis (Basics) |
+| Tools | Git, GitHub, VS Code, Linux Terminal |
+| Concepts | File Systems, Git Workflows, Markdown, REST APIs |
+
+
+## Featured Projects
+
+- [CSE103 Lab — LAB 3](https://github.com/shivamsbisht/cse103-lab-LAB3)
+
+  Git workflows, repository management and Markdown documentation.
+
+## Currently Working On
+
+- Semester lab projects
+- Improving Python programming skills
+- Learning AI and Data Science fundamentals
+
+## Connect With Me
+
+- GitHub: https://github.com/shivamsbisht
+- LinkedIn: [Add your LinkedIn profile URL]
