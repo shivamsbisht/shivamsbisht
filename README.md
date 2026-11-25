@@ -7,7 +7,7 @@
 - Currently learning Python, Linux, Git and GitHub workflows.
 - Interested in Artificial Intelligence, Data Science and Software Development.
 - Exploring programming, data analysis and practical technology projects.
-- 
+- Interested in Web Development, Artificial Intelligence and Data Science.
 
 ## Technical Skills
 
@@ -34,4 +34,4 @@
 ## Connect With Me
 
 - GitHub: https://github.com/shivamsbisht
-- LinkedIn: [Add your LinkedIn profile URL]
+- LinkedIn: https://www.linkedin.com/in/shivam-bisht-a56102441/
